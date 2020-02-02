@@ -1,6 +1,8 @@
 # WPDevDesign Oxygen Yoast SEO #
 
-Includes WordPress content in Yoast's SEO analsysis when using [http://oxygenbuilder.com/](Oxygen).
+Includes WordPress content in Yoast's SEO analsysis when using [Oxygen](http://oxygenbuilder.com/).
+
+Further info in [this](https://wpdevdesign.com/fix-for-yoast-seo-in-oxygen/) blog post.
 
 ## Installation ##
 
